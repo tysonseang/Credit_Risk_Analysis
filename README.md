@@ -1,13 +1,8 @@
 # Credit_Risk_Analysis
 
 ## Overview of Analysis
-This project involves data preperation, statistical reasoning, and machine learning to determine the credit risk associated with various risky loans. I employed various techniques to train and evaluate models with unbalanced classes from a dataset from LendingClub, a p2p lending servivces provider
 
-Libraries: imbalanced-learn and scikit-learn
-
-oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, you’ll use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, you’ll compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once you’re done, you’ll evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
-
-
+This project involves data preperation, statistical reasoning, and machine learning to determine the credit risk associated with various loans. I employed various techniques to build, train, and evaluate models with unbalanced classes from a dataset from LendingClub, a p2p lending servivces provider. Utilizing Python, Jupyter Notebook, and the imbalanced-learn and scikit-learn libraries, I oversampled the data using the RandomOverSampler and SMOTE algorithms and undersampled the data using the ClusterCentroids algorithm. Then, I used a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Finally, I compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
 
 ## Results
 
